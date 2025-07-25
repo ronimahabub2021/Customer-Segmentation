@@ -1,0 +1,7 @@
+kaggle.json setup		কেবল প্রথমবার
+Dataset download		Kaggle থেকে
+Data cleaning			Missing & duplicate check
+Visualization			Pairplot, Elbow plot, Cluster scatter
+Model training			KMeans with 5 clusters
+Results save			CSV & Model pickle
+Optional Insights		Gender-wise, Summary Stats
